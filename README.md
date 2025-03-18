@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Santhosh</h1>
 <h3 align="center">💻 Full-Stack Developer | Java & Node.js Enthusiast | MySQL</h3>
-<img align=“right " width=400 alt=“Coding" src=“https://images.app.goo.gl/cd7VBu98qBDbJnwKA ">
+<img align=“right " width=400 alt=“Coding" src=“[https://images.app.goo.gl/cd7VBu98qBDbJnwKA](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif) ">
 
 - 🌱 I’m currently learning **JS, Frameworks**
 
