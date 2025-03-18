@@ -2,7 +2,7 @@
 <h3 align="center">💻 Full-Stack Developer | Java & Node.js Enthusiast | MySQL</h3>
 <img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
-
+<h2> About Me  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
 - 🌱 I’m currently learning **JS, Frameworks**
 
 - 📫 How to reach me **iamsanthu017@gmail.com**
