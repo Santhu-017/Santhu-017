@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Santhosh</h1>
 <h3 align="center">💻 Full-Stack Developer | Java & Node.js Enthusiast | MySQL</h3>
-<img align=“right " width=400 alt=“Coding" src=“[[https://images.app.goo.gl/cd7VBu98qBDbJnwKA](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)](https://www.bing.com/th/id/OGC.850477fed08bfe98598082bcd309ce70?pid=1.7&rurl=https%3a%2f%2fuser-images.githubusercontent.com%2f74038190%2f212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif&ehk=l5DiNZzLhBcibUpvhH2Cba0gyqVX0NRQn5LLN5t%2fPkg%3d) ">
+<img align=“right " width=400 alt=“Coding" src=“[[[https://images.app.goo.gl/cd7VBu98qBDbJnwKA](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)](https://www.bing.com/th/id/OGC.850477fed08bfe98598082bcd309ce70?pid=1.7&rurl=https%3a%2f%2fuser-images.githubusercontent.com%2f74038190%2f212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif&ehk=l5DiNZzLhBcibUpvhH2Cba0gyqVX0NRQn5LLN5t%2fPkg%3d)](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif) ">
 
 - 🌱 I’m currently learning **JS, Frameworks**
 
