@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 <p align="left">
-  👋 Welcome to my digital space! I'm Santhosh, a passionate and results-oriented **Full-Stack Developer** dedicated to crafting scalable and efficient web applications. My core expertise lies in building robust backends with **Java** and **Node.js**, complemented by a strong understanding of **MySQL** for data management. I'm also actively exploring modern **JavaScript frameworks** to enhance user experiences on the frontend. Driven by a curiosity for innovation, I'm venturing into the realm of **Cloud Native** technologies to build and deploy resilient and scalable solutions.
+  👋 Welcome to my digital space! I'm Santhosh, a passionate and results-oriented "Full-Stack Developer" dedicated to crafting scalable and efficient web applications. My core expertise lies in building robust backends with Java and Node.js, complemented by a strong understanding of MySQL for data management. I'm also actively exploring modern JavaScript frameworks to enhance user experiences on the frontend. Driven by a curiosity for innovation, I'm venturing into the realm of **Cloud Native** technologies to build and deploy resilient and scalable solutions.
 </p>
 
 ---
@@ -13,14 +13,13 @@
 
 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
-* 🛠️ I specialize in **Full-Stack Web Development**, architecting solutions from database design and API development to creating engaging user interfaces.
-* 👨‍💻 As a seasoned **Java Developer**, I bring experience in building [mention specific Java frameworks/areas, e.g., **Spring Boot** for microservices, **JEE** for enterprise applications, **RESTful APIs**, etc.].
-* ⚛️ I'm currently expanding my frontend skills with modern **JavaScript frameworks** like **React** to build dynamic and interactive user experiences.
-* ☁️ Exploring the world of **Cloud Native** technologies, including **Docker**, **Kubernetes**, and **AWS/Azure/GCP**, to build and deploy scalable and resilient applications.
-* 🚀 I thrive in collaborative environments, leveraging my **leadership**, **communication**, and **problem-solving** skills to contribute effectively to team goals and project success.
+* 🛠️ I specialize in "Full-Stack Web Development", architecting solutions from database design and API development to creating engaging user interfaces.
+* ⚛️ I'm currently expanding my frontend skills with modern "JavaScript frameworks" like "React" to build dynamic and interactive user experiences.
+* ☁️ Exploring the world of Cloud Native technologies, including Docker, Kubernetes, and AWS/Azure/GCP, to build and deploy scalable and resilient applications.
+* 🚀 I thrive in collaborative environments, leveraging my leadership, communication, and problem-solving skills to contribute effectively to team goals and project success.
 * 📚 A continuous learner, I'm always eager to adopt new technologies, explore innovative solutions, and stay updated with the latest industry best practices.
-* 📫 Reach out to me at: **iamsanthu017@gmail.com**
-* ⚡ Fun fact: [Add a fun or interesting fact about yourself, e.g., "I enjoy contributing to open-source projects in my free time." or "I'm a big fan of clean and efficient code."]
+* 📫 Reach out to me at: iamsanthu017@gmail.com
+* ⚡ Fun fact:  "I'm a big fan of clean and efficient code."
 
 ---
 
