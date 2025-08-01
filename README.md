@@ -55,8 +55,8 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/santhosh-a-s--/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Santhosh A S on LinkedIn" height="30" width="40" /></a>
   <a href="https://instagram.com/santhu_santhosh17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="santhu_santhosh17 on Instagram" height="30" width="40" /></a>
-  <a href="https://github.com/Santhu-017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github-alt.svg" alt="your-github-username on GitHub" height="30" width="40" /></a>
-  <a href="mailto:iamsanthu017@gmail.com" aria-label="Email"><i class="fas fa-envelope"></i></a>
+ <a href="https://github.com/Santhu-017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github-alt.svg" alt="Santhosh A S on GitHub" height="30" width="40" /></a>
+   <a href="mailto:iamsanthu017@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="iamsanthu017 on Gmail" height="30" width="40" /></a>
  
   </p>
 
