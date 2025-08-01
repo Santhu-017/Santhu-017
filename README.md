@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 <p align="left">
-  👋 Welcome to my digital space! I'm Santhosh, a passionate and results-oriented "Full-Stack Developer" dedicated to crafting scalable and efficient web applications. My core expertise lies in building robust backends with Java and Node.js, complemented by a strong understanding of MySQL for data management. I'm also actively exploring modern JavaScript frameworks to enhance user experiences on the frontend. Driven by a curiosity for innovation, I'm venturing into the realm of **Cloud Native** technologies to build and deploy resilient and scalable solutions.
+  👋 Welcome to my digital space! I'm Santhosh, a passionate full-stack developer dedicated to building robust and scalable web applications. My journey into development started with a curiosity for how things work under the hood, leading me to master back-end technologies like Java and Node.js. I thrive on architecting solutions from the ground up, from designing efficient databases with MySQL to crafting elegant user interfaces with modern JavaScript frameworks.
 </p>
 
 ---
