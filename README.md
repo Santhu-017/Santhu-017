@@ -1,14 +1,5 @@
- <h1>Hi, I'm Santhosh</h1>
-            <p class="subtitle">
-              <span
-                id="typing-effect"
-                data-typing-text='[
-                        "A passionate Software Developer.",
-                        "Building elegant web solutions.",
-                        "Focused on clean code & UX.",
-                        "Exploring new technologies."
-                    ]'
-              ></span>
+ <h1 align="center">Hi 👋, I'm Santhosh</h1>
+            
 <h3 align="center">💻 Full-Stack Developer | Java & Node.js Enthusiast | MySQL </h3>
 <img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
