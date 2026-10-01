@@ -52,7 +52,6 @@ I am a Computer Science and Engineering undergraduate at Bangalore Technological
   <summary><b>🌟 Leadership & Outreach</b></summary>
   <ul>
     <li><b>IEEE Day 2026 Ambassador:</b> Organized events and created promotional content representing IEEE globally.</li>
-    <li><b>STEM Outreach:</b> Contributed to the <b>PRAVARTANA</b> initiative, extending technical education to schools across Karnataka.</li>
     <li><b>Event Coordination:</b> Organized industrial site visits for student groups to Inker Robotics and MSME-DFO.</li>
   </ul>
 </details>
@@ -93,25 +92,10 @@ I am a Computer Science and Engineering undergraduate at Bangalore Technological
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Santhu-017&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-  </a>
-</p>
-
-<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Santhu-017&show_icons=true&theme=radical&hide_border=true" alt="Santhosh's GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhu-017&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
-<!-- GITHUB SNAKE ANIMATION -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Santhu-017/Santhu-017/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Santhu-017/Santhu-017/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Santhu-017/Santhu-017/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Santhu-017/count.svg" alt="Profile Views" />
-</p>
+
+
