@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm Santhosh</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1572B6&height=200&section=header&text=Santhosh%20A%20S&fontSize=80&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20CSE%20Undergrad&descAlignY=55&descAlign=50" alt="Header Banner" />
+</div>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1572B6&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Java+%26+Node.js+Enthusiast;MySQL+Database+Designer;Continuous+Learner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1572B6&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Development;Building+ZeroMesh+%26+Edge+Networks;Java,+Node.js+%26+React;IEEE+Ambassador+%26+Tech+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,21 +17,49 @@
 
 ---
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
-
 ## 💡 About Me
 
-👋 Welcome to my digital space! I'm a passionate full-stack developer dedicated to building robust, scalable web applications. I thrive on architecting solutions from the ground up—from designing efficient databases to crafting elegant, modern user interfaces.
+I am a Computer Science and Engineering undergraduate at Bangalore Technological Institute, passionate about architecting scalable web applications and exploring the intersections of AI, edge computing, and robotics. I thrive on building resilient systems from the ground up.
 
-* 🛠️ **Focus:** Full-Stack Web Development, API Architecture, and Database Design.
-* ⚛️ **Current Learning:** Expanding my frontend architecture skills with **React** and exploring Cloud Native technologies (**Docker, Kubernetes, AWS**).
-* 🚀 **Work Style:** Collaborative team player with a focus on problem-solving, clean code architecture, and effective communication.
-* 📚 **Philosophy:** Always eager to adopt new technologies and stay updated with the latest industry best practices.
-* ⚡ **Fun fact:** I can spend hours refactoring code just to make it a few milliseconds faster.
+* 🛠️ **Core Focus:** Full-Stack Development (MERN), Database Architecture (MySQL), and Offline-First Applications.
+* 🔭 **Currently Building:** Expanding **ZeroMesh**, a disaster response network framework for emergency communication during broadband outages using SMS fallback.
+* 🌱 **Currently Learning:** Cloud computing certifications (via NPTEL) and advanced JavaScript frameworks.
+* 🚀 **Community:** Active contributor to IEEE Bangalore Section, IEEE WIE, and local tech Meetups.
+* ⚡ **Fun fact:** Clean code and highly optimized database queries make my day.
 
 ---
 
-## 🔧 Technologies & Tools
+## 🏆 Experience & Achievements
+
+<details>
+  <summary><b>💼 Professional Experience & Internships</b></summary>
+  <ul>
+    <li><b>Full-Stack Development Intern</b> at <i>WebStack Academy</i>: Focused on the MERN stack, building dynamic web applications.</li>
+    <li><b>Industry Readiness Program</b> candidate at <i>StringStack.ai</i> (Shortlisted for communication round).</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>🔬 Research & Competitions</b></summary>
+  <ul>
+    <li><b>CVIP 2026:</b> Submitted research work to the 11th International Conference on Computer Vision & Image Processing.</li>
+    <li><b>Hackathons:</b> Presented project proposals at the <b>MSME Idea Hackathon 6.0</b> and competed in the <b>IEEE NKSS Ideathon</b>.</li>
+    <li><b>Academic Competitions:</b> Competed in technical events in Belagavi and attended the 11th International Conference on Research in Intelligent Computing in Engineering in Goa.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>🌟 Leadership & Outreach</b></summary>
+  <ul>
+    <li><b>IEEE Day 2026 Ambassador:</b> Organized events and created promotional content representing IEEE globally.</li>
+    <li><b>STEM Outreach:</b> Contributed to the <b>PRAVARTANA</b> initiative, extending technical education to schools across Karnataka.</li>
+    <li><b>Event Coordination:</b> Organized industrial site visits for student groups to Inker Robotics and MSME-DFO.</li>
+  </ul>
+</details>
+
+---
+
+## 🔧 Tech Stack & Tools
 
 <table>
   <tr>
@@ -49,7 +79,7 @@
       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
     </td>
     <td valign="top" width="33%">
-      <h3>Database, Cloud & Tools</h3>
+      <h3>Database & Tools</h3>
       <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> <br><br>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <br><br>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> <br><br>
@@ -63,14 +93,24 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Santhu-017&show_icons=true&theme=radical&hide_border=true" alt="Santhosh's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhu-017&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Santhu-017&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Santhu-017&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  </a>
 </p>
 
----
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Santhu-017&show_icons=true&theme=radical&hide_border=true" alt="Santhosh's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhu-017&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<!-- GITHUB SNAKE ANIMATION -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Santhu-017/Santhu-017/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Santhu-017/Santhu-017/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Santhu-017/Santhu-017/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/Santhu-017/count.svg" alt="Profile Views" />
